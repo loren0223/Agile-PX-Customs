@@ -1,0 +1,14 @@
+com.aic.agile.sdk.px.event.dfi.ItemLCPAuditor
+com.aic.agile.sdk.px.event.dfi.ItemBOMActionFlagger
+com.aic.agile.sdk.px.event.dfi.ProductSeriesUpdator
+com.aic.agile.sdk.px.event.dfi.BOMStructureValidator
+com.aic.agile.sdk.px.event.dfi.FGStakeholderAssignator
+com.aic.agile.sdk.px.event.dfi.BOMBulkChange
+com.aic.agile.sdk.px.event.dfi.ItemRevFormatValidator
+com.aic.agile.sdk.px.event.dfi.CustomAutoPromotion
+com.aic.agile.sdk.px.event.dfi.CheckFGStakeholderExistOrNot
+com.aic.agile.sdk.px.event.dfi.ApproverReminder
+com.aic.agile.sdk.px.event.everlight.DocsDescValidator
+com.aic.agile.sdk.px.event.everlight.DocsDescGenerator
+com.aic.agile.sdk.px.event.everlight.SetProductDocConfidentialLevel
+com.aic.agile.sdk.px.event.test
