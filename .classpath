@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDBC 12cR1"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Log4j 1.2.17"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/POI 3.12"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Agile SDK 9.3.5.0"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Java Mail 1.5.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_112_x64"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AgileSDK-9.3.6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ApachePOI-3.12"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaMail-1.5.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDBC-Oracle-12cR1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/log4j-1.2.17"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
