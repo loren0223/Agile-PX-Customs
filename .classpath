@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_112_x64"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AgileSDK-9.3.6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AgileSDK-9.3.5.0"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ApachePOI-3.12"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaMail-1.5.5"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDBC-Oracle-12cR1"/>

@@ -13,3 +13,5 @@ com.agree.agile.sdk.px.event.everlight.DocsDescGenerator
 com.agree.agile.sdk.px.event.everlight.SetProductDocConfidentialLevel
 com.agree.agile.sdk.px.event.test
 com.agree.agile.sdk.px.event.AutoPromote
+com.agree.agile.sdk.px.event.testUpdateTitleblock
+com.agree.agile.sdk.px.event.testUpdateTitleblockPre
